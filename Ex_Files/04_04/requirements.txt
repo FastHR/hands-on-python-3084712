@@ -142,4 +142,4 @@ whitenoise==5.2.0
 wrapt==1.12.1
 xlrd==2.0.1
 zipp==3.8.1
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
